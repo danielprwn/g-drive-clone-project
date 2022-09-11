@@ -5,7 +5,7 @@ Google Drive clone web app.
 
 
 Technologies
-✅ HTML ✅ CSS ⚛ React JS
+✅ HTML ✅ CSS ⚛ React JS ✅ Firebase
 
 
 Download the repository and run it locally:
