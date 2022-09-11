@@ -1,18 +1,18 @@
 Google Drive clone web app.
 
-✔ 
-
+✔ Ability to transfer files to disk.
 
 
 Technologies
-✅ HTML ✅ CSS ✅ React JS
+✅ HTML ✅ CSS ⚛ React JS
 
 
-Pobierz repozytorium i uruchom je lokalnie:
+Download the repository and run it locally:
 
 $ npm install
 
 $ npm start
+
 
 Apllication screenshoots. 
 
