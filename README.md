@@ -1,4 +1,18 @@
+Google Drive clone web app.
 
+✔ 
+
+
+
+Technologies
+✅ HTML ✅ CSS ✅ React JS
+
+
+Pobierz repozytorium i uruchom je lokalnie:
+
+$ npm install
+
+$ npm start
 
 Apllication screenshoots. 
 
