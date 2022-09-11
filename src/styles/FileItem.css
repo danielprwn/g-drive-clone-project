@@ -1,0 +1,31 @@
+.fileItem
+{
+    height: 55px;
+    border-bottom: 2px solid rgb(211, 211, 211);
+    border-top: 2px solid rgb(212, 212, 212);
+    width: 100%;
+}
+
+.fileItem>a
+{
+    height: 100%;
+    display: flex;
+    text-decoration: none;
+    color: rgb(80, 76, 76);
+}
+
+.fileItem>a>div 
+{
+    display: flex;
+    align-items: center;
+}
+
+.fileItem>a>div>*
+{
+    margin: 10px;
+}
+
+.fileItem--left
+{
+    flex: 1;
+}
