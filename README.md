@@ -1,6 +1,7 @@
 Google Drive clone web app.
 
 ✔ Ability to transfer files to disk.
+✔ Login option with Google.
 
 
 Technologies
