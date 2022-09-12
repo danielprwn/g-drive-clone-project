@@ -1,10 +1,10 @@
-Google Drive clone web app.
+# Google Drive clone web app.
 
 ✔ Ability to transfer files to disk.
 ✔ Login option with Google.
 
 
-Technologies
+## Technologies
 ✅ HTML ✅ CSS ⚛ React JS ✅ Firebase
 
 
